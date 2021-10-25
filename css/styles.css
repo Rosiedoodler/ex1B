@@ -81,6 +81,13 @@ ul {
     /*styles here*/
     /* CSS for MOBILE FIRST: 320px (20rem) - iPhone, iPod Touch, and Android and other mobile phones in portrait mode. */
 
+    h1 {
+
+        font-size: 6.33rem;
+        color: #90128390;
+
+    }
+
 
     /*media queries*/
     @media screen and (min-width: 480px){
